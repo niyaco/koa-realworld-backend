@@ -1,0 +1,9 @@
+{
+  "name": "koa-realworld-backend",
+  "version": "0.0.1",
+  "description": "Build RealWorld with koa",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Niyaco",
+  "license": "MIT"
+}
